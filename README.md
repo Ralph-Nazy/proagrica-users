@@ -1,6 +1,6 @@
 ## Proagrica User List
 
-This is NextJs project for dashboard with sample graphs, charts visualization as well get list of users, view user details and add a new User. 
+This is a ReactJs project to fetch a list of users, view single user details as well as add a new user. 
 
 To run the project locally follow the steps below;
 
