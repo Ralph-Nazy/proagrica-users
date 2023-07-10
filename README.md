@@ -2,7 +2,7 @@
 
 This is a ReactJs project to fetch a list of users, view single user details as well as add a new user. 
 
-To run the project locally follow the steps below;
+To run the project locally follow the steps below:
 
 Clone the project to your local
 
